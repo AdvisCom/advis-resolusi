@@ -1,6 +1,6 @@
 Advis Resolusi
 -Disiplin dalam membagi waktu
 -Belajar step by step untuk melangkah menjadi seorang developer
--Membuat sebuah komunitas tim IT sebagai tempat untuk diskusi
--Setelah mempunyai Portfolio dan dikenal banyak orang;
--Membuat konten edukasi seperti tentang membuat web dan software information
+-Membuat sebuah komunitas tim IT sebagai tempat untuk diskusi dan sharing
+-Dapat membangun Portfolio dan dikenal banyak orang;
+-Membuat konten edukasi seperti tentang membuat website simpel (html, css, js)
